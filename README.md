@@ -16,6 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/94853139/143158029-d1a38b33-856d-4a72-810b-929b8728953e.png)
 
+
 ## Getting Started
 
 **Step 1**. Enter your license key and submit. You can get keys [here](https://gpudrops.com/manage) while they are in stock.
@@ -57,6 +58,11 @@ You must leave the extension tab open for the bot to perform a checkout during a
 If your feed is not scrolling at all times, please reopen the extension.
 
 For any questions or issues, please leave a message in the [GPU Drops Discord](https://discord.gg/gpudrops) in the #tech-support channel, and we will get back to you within a few hours.
+
+**IMPORTANT**
+
+For virgin accounts that have not purchased any B-stock in the past, you must "break-in" your account by performing a mock B-stock checkout until you arrive at https://secure.evga.com/Cart/Checkout_PlaceOrder.aspx
+
 
 ## Tips & Tricks
 
