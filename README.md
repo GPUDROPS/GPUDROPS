@@ -18,7 +18,7 @@
 
 ## Getting Started
 
-**Step 1**. Enter your license key and submit
+**Step 1**. Enter your license key and submit. You can get keys [here](https://gpudrops.com/manage) while they are in stock.
 
 ![image](https://user-images.githubusercontent.com/94853139/143159490-35df88e7-cfca-4aba-9d3c-52584edc03f3.png)
 
