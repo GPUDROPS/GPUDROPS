@@ -60,4 +60,6 @@ For any questions or issues, please leave a message in the [GPU Drops Discord](h
 
 ## Tips & Tricks
 
-**We strongly suggest using PayPal as your payment method for EVGA. If you use a debit/credit card, EVGA may ask for 2FA, randomly decline your card, or you may run into cookie bans (error code webpages).**
+**We strongly suggest using PayPal as your payment method for EVGA**. If you use a debit/credit card, EVGA may ask for 2FA, randomly decline your card, or you may run into cookie bans (error code webpages).
+
+If you are using PayPal for payment, [setup PayPal One Touch](https://www.paypal.com/us/webapps/mpp/one-touch-checkout).
