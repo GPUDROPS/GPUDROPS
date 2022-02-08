@@ -1,6 +1,6 @@
 ## Installation Instructions
 
-**Step 1**. [Download the latest release](https://github.com/GPUDROPS/GPUDROPS/releases/tag/gpudrops) and unzip
+**Step 1**. [Download the latest release](https://github.com/GPUDROPS/GPUDROPS/releases) and unzip
 
 ![image](https://user-images.githubusercontent.com/94853139/143158483-e0f1a826-8b18-42f4-9f3a-b702c535ac96.png)
 
